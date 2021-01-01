@@ -30,8 +30,8 @@ Baseado em Discord.js, com o module DisTube.
     * [Comandos de Economia](#Economia)
     * [Comandos de Animais](#Animais)
 2. [Links Importantes](#-links-importantes-)
-3. [Redes Sociais](#💬-Redes-Sociais-💬)
-4. [Aviso](#💬-Aviso-💬)
+3. [Redes Sociais](#-redes-sociais-)
+4. [Aviso](#-aviso-)
 
 
 # 📕 Comandos 📕
