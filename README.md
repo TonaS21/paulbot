@@ -38,7 +38,7 @@ Baseado em Discord.js, com o module DisTube.
 
 ## Música
 
-- **play ou p** - Toca uma música ou playlist do youtube. Se `distube.options.searchSongs = true`, vais poder escolher entre algumas opções, mas no bot normal `searchSongs = false
+- **play ou p** - Toca uma música ou playlist do youtube.
 - **pause** - Pausa a música que está a tocar
 - **resume** - Resume a música que estava a tocar
 - **stop** - Sai do voice channel e para de tocar música´
@@ -141,10 +141,10 @@ Baseado em Discord.js, com o module DisTube.
 - **kpop** - Procura fotografias de kpopers? (não sei como dizer)
 - **name** - Mostra informações sobre um nome
 - **define** - Define alguma palavra (penso que é só em inglês)
-- **acrónimo**` - Manda-te informações sobre o acrónimo que especificaste
-- **rhymer**` - O bot vai mandar uma palavra que rima com a que mandaste
-- **botinfo**` - Informações sobre o Bot
-- **wiki**` - Procura o que quiseres na wikipédia
+- **acrónimo** - Manda-te informações sobre o acrónimo que especificaste
+- **rhymer** - O bot vai mandar uma palavra que rima com a que mandaste
+- **botinfo** - Informações sobre o Bot
+- **wiki** - Procura o que quiseres na wikipédia
 - **csgo** - Procura os stats de csgo de um id64 da steam
 - **urban** - Procura o significado de alguma coisa no pior dicionário
 - **fortnite** - Procura uma conta de fortnite no fortnite tracker
@@ -257,7 +257,7 @@ Baseado em Discord.js, com o module DisTube.
 
 **[Server de Suporte do Bot](https://discord.gg/c5EuetX)** - Caso venhas a ter alguma dúvida ou o Bot não esteja a funcionar bem, entra no server e faz a tua pergunta ou diz o erro que está a acontecer.
 
-**[Invite do bot](https://discord.com/api/oauth2/authorize?client_id=733694571866882098&permissions=8&scope=bot)** - Convida o Bot para o teu server!
+**[Invite do Bot](https://discord.com/api/oauth2/authorize?client_id=733694571866882098&permissions=8&scope=bot)** - Convida o Bot para o teu server!
 
 **[Top.gg Link](https://top.gg/bot/733694571866882098)** - Sim! O Bot foi aprovado pelo Top.gg! E está quase a ser pelo Discord em si (83 servers em 28/11/2020). Não percas mais tempo, vota nele!
 
