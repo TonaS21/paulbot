@@ -266,11 +266,11 @@ Baseado em Discord.js, com o module DisTube.
 
 Bot feito por TonaS#9344
 
-**[Steam](https://steamcommunity.com/id/TonaS21/)**
+- __**[Steam](https://steamcommunity.com/id/TonaS21/)**__
 
-**[Twitter](https://twitter.com/tonasfoot5)**
+- __**[Twitter](https://twitter.com/tonasfoot5)**__
 
-**[Instagram](https://www.instagram.com/tonas_21/)**
+- __**[Instagram](https://www.instagram.com/tonas_21/)**__
 
 
 # 🔗 Aviso: 🔗
