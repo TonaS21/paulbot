@@ -253,11 +253,11 @@ Baseado em Discord.js, com o module DisTube.
 
 **[Discord.js](https://discord.js.org/#/)** - Library em que o bot foi baseado. Caso não saibas o significado de alguma coisa no código do Bot, podes procurar aqui nos Docs deles ---> [Link](https://discord.js.org/#/docs/main/stable/general/welcome).
 
-**[DisTube](https://distube.js.org/)** - Module para a música. Muito fácil de usar, e é Open Source! Se tiveres alguma dúvida ou precisares de ajuda relacionada com o DisTube, podes entrar no Server de Suporte, O Owner do Bot (ya ele fez um bot) vai-te sempre responder, mas lembra-te, ele não fala português ---> [Link](https://discord.gg/X3NY853).
+**[DisTube](https://distube.js.org/)** - Module para a música. Muito fácil de usar, e é Open Source! Se tiveres alguma dúvida ou precisares de ajuda relacionada com o DisTube, podes entrar no Server de Suporte, O Owner do Bot (ya ele fez um bot) vai-te sempre responder, mas lembra-te, ele não fala português, e lê as regras do server ---> [Link](https://discord.gg/X3NY853).
 
 **[Server de Suporte do Bot](https://discord.gg/c5EuetX)** - Caso venhas a ter alguma dúvida ou o Bot não esteja a funcionar bem, entra no server e faz a tua pergunta ou diz o erro que está a acontecer.
 
-**[Invite do Bot](https://discord.com/api/oauth2/authorize?client_id=733694571866882098&permissions=8&scope=bot)** - Convida o Bot para o teu server!
+**[Invite do Bot](https://dsc.gg/paulbot)** - Convida o Bot para o teu server!
 
 **[Top.gg Link](https://top.gg/bot/733694571866882098)** - Sim! O Bot foi aprovado pelo Top.gg! E está quase a ser pelo Discord em si (83 servers em 28/11/2020). Não percas mais tempo, vota nele!
 
