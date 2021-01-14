@@ -13,7 +13,7 @@
 </a>
 
 Um Bot de Discord com diversos usos, todo em português.
-Com cerca de 180 comandos, desde música até memes.
+Com cerca de 195 comandos, desde música até memes.
 
 O Bot tem diversas features como reaction controller na música, páginas no queue, entre outras coisas.
 
