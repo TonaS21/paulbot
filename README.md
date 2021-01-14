@@ -259,7 +259,7 @@ Baseado em Discord.js, com o module DisTube.
 
 **[Invite do Bot](https://dsc.gg/paulbot)** - Convida o Bot para o teu server!
 
-**[Top.gg Link](https://top.gg/bot/733694571866882098)** - Sim! O Bot foi aprovado pelo Top.gg! E está quase a ser pelo Discord em si (83 servers em 28/11/2020). Não percas mais tempo, vota nele!
+**[Top.gg Link](https://top.gg/bot/733694571866882098)** - Sim! O Bot foi aprovado pelo Top.gg! E está quase a ser pelo Discord em si (94 servers em 14/1/2021). Não percas mais tempo, vota nele!
 
 
 # 💬 Redes Sociais 💬
